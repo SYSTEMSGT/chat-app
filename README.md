@@ -25,7 +25,7 @@ Para todas las versiones disponibles, mira los [releases en este repositorio](ht
 
 _Agradecimiento a_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Pablo Girón** - *Trabajo Inicial* - [pablogirongt](https://github.com/pablogirongt)
 
 También puedes ver la lista de todos los [contribuyentes](https://github.com/SYSTEMSGT/chat-app/graphs/contributors) quíenes han participado en este proyecto. 
 
