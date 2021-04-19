@@ -28,12 +28,12 @@ Agradecimiento a:
 
 * **Pablo Girón** - *Trabajo Inicial* - [pablogirongt](https://github.com/pablogirongt)
 
-También puedes ver la lista de todos los [contribuyentes](https://github.com/SYSTEMSGT/chat-app/graphs/contributors) quíenes han participado en este proyecto. 
+_También puedes ver la lista de todos los [contribuyentes](https://github.com/SYSTEMSGT/chat-app/graphs/contributors) quíenes han participado en este proyecto._
 
 
 ## Versiones
 
-Demo disponible [aquí](https://github.com/SYSTEMSGT/chat-app/releases).
+Demo disponible [aquí](https://chat.systemsgt.com/).
 
 ## Licencia
 
