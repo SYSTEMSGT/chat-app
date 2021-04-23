@@ -1,0 +1,15 @@
+{
+    "name": "michael/chat-app",
+    "description": "Realtime chat aplication with php and javascript",
+    "type": "project",
+    "license": "GNU",
+    "minimum-stability": "beta",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "app/Classes",
+            "Helpers\\": "app/Helpers"
+        },
+        "files": ["app/Helpers/helper.php"]
+    }
+}

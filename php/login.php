@@ -1,5 +1,12 @@
-<?php 
-    session_start();
+<?php
+require '../vendor/autoload.php';
+
+$signup = new Classes\Login;
+$signup->setUsername($_POST['user']);
+$signup->setPassword($_POST['password']);
+$signup->verifyLogin();
+
+/*     session_start();
     include_once "config.php";
     $user = mysqli_real_escape_string($conn, $_POST['user']);
     $password = mysqli_real_escape_string($conn, $_POST['password']);
@@ -27,4 +34,4 @@
     }else{
         echo "Todos los datos son requeridos.";
     }
-?>
+?> */
